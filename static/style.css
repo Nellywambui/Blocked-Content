@@ -1,0 +1,10 @@
+.par1 {
+    font-family: SansSerif;
+    background-color: beige;
+    font-size: 15px;
+    color: #3dd5f3;
+}
+.tab1 td{
+     outline: solid 1px black;
+}
+
